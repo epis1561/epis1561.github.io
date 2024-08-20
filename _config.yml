@@ -11,10 +11,10 @@ lang: en
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/dochttps://github.com/epis1561/epis1561.github.io.gits/usage.md
 # ↓ --------------------------
 
-title: epis의 개발일지 # the main title
+title: 테디의 개발일지 # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -25,7 +25,7 @@ description: 개발일지입니다.
 url: "https://epis1561.github.io.git"
 
 github:
-  username: github_username # change to your github username
+  username: eepis1561 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /asset/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
